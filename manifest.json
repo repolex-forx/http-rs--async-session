@@ -177,7 +177,9 @@
           "githubUrl": "https://github.com/async-rs/async-std",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/9a2805dc8a4dc1f43b6337106a96c52472b47573/chunk-001.nq.gz",
+      "dep": "dep/9a2805dc8a4dc1f43b6337106a96c52472b47573.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
