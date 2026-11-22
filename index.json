@@ -1,0 +1,11 @@
+{
+  "org": "http-rs",
+  "repo": "async-session",
+  "versions": [
+    {
+      "commit": "9a2805dc8a4dc1f43b6337106a96c52472b47573",
+      "tag": "v3.0.0",
+      "parsed_at": "2026-11-22T14:58:20.004361+00:00"
+    }
+  ]
+}
